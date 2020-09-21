@@ -7,7 +7,7 @@ Simple CLI tool for generating promo codes.
 | Order | Argument description | Value |
 | --- | --- | --- |
 | 1 | Code length | Number |
-| 2 | Prefix for each code | String |
+| 2 | Code prefix | String |
 | 3 | Codes count | Number |
 
 **Example**

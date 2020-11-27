@@ -17,5 +17,5 @@ jobs:
         ruby-version: 2.7
     - name: Install dependencies
       run: gem i rubocop
-    - name: Run Rubocp
+    - name: Run Rubocop
       run: rubocop

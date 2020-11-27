@@ -1,5 +1,9 @@
 # promo-codes-generator
 
+![GitHubActions](https://github.com/fartem/promo-codes-generator/workflows/.github/workflows/commit.yml/badge.svg)
+
+## About
+
 Simple CLI tool for generating promo codes.
 
 ## Usage

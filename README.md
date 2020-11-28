@@ -1,5 +1,9 @@
 # promo-codes-generator
 
+[![GitHubActions](https://github.com/fartem/promo-codes-generator/workflows/Ruby/badge.svg)](https://github.com/fartem/promo-codes-generator/actions?query=workflow%3ARuby)
+
+## About
+
 Simple CLI tool for generating promo codes.
 
 ## Usage
